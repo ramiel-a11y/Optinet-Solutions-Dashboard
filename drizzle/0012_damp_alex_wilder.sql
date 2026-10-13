@@ -1,0 +1,1 @@
+ALTER TABLE "clients" ADD COLUMN "reminders_muted_at" timestamp with time zone;

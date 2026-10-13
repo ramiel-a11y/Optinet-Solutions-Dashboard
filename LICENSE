@@ -1,0 +1,17 @@
+Copyright (c) 2026 Optinet Solutions. All rights reserved.
+
+This software and its source code are proprietary to Optinet Solutions. They are
+made visible for evaluation and demonstration only.
+
+No licence is granted. Without prior written permission from Optinet Solutions,
+you may not use, copy, modify, merge, publish, distribute, sublicense or sell any
+part of this software, in source or compiled form, or create derivative works
+from it. Viewing or forking this repository on GitHub does not grant any of
+these rights.
+
+Third-party packages and components included in or used by this software,
+including those under components/ui and the dependencies listed in package.json,
+remain subject to their own licences.
+
+All data in this repository and in its demo database is invented for
+demonstration. It does not describe real clients, people or transactions.
