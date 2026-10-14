@@ -5,6 +5,9 @@ No client, figure or person in it is real.
 
 Stack: Next.js 16 · TypeScript · Tailwind · shadcn/ui · Supabase (Postgres + Auth) · Drizzle.
 
+To start a new dashboard from this code under another account, such as a client's, see
+[NEW-DASHBOARD.md](NEW-DASHBOARD.md).
+
 ## Signing in
 
 Sign in as `demo@optinetsolutions.com` with the password set as `DEMO_PASSWORD` when the
